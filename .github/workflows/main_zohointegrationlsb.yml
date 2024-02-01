@@ -39,4 +39,4 @@ jobs:
           app-name: 'zohointegrationlsb'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3AA26449A73E4CE4B8F65FA76A372EC3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E265CBE3ADDF480DA9CB72FD0ECCAA87 }}
